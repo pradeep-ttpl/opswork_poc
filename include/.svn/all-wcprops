@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/stt/!svn/ver/1754/branch2/v1/include
+END
+MCrypt.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/stt/!svn/ver/1754/branch2/v1/include/MCrypt.php
+END
+authorize_payment_success.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/stt/!svn/ver/1659/branch2/v1/include/authorize_payment_success.php
+END
+consentDiscloser.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/stt/!svn/ver/1659/branch2/v1/include/consentDiscloser.php
+END
+ajax.php
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/stt/!svn/ver/1659/branch2/v1/include/ajax.php
+END
+captcha.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/stt/!svn/ver/1659/branch2/v1/include/captcha.php
+END
+class.phpmailer.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/stt/!svn/ver/1659/branch2/v1/include/class.phpmailer.php
+END
+email_templates.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/stt/!svn/ver/1753/branch2/v1/include/email_templates.php
+END
+tax_error.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/stt/!svn/ver/1676/branch2/v1/include/tax_error.php
+END
+class.smtp.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/stt/!svn/ver/1659/branch2/v1/include/class.smtp.php
+END
+functions.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/stt/!svn/ver/1754/branch2/v1/include/functions.php
+END
+facebook.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/stt/!svn/ver/1659/branch2/v1/include/facebook.php
+END
+summary_validations.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/stt/!svn/ver/1659/branch2/v1/include/summary_validations.php
+END
+class.xhttp.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/stt/!svn/ver/1659/branch2/v1/include/class.xhttp.php
+END

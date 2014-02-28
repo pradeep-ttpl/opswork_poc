@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/stt/!svn/ver/1754/branch2/v1/admin/model
+END
+user_biz.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/stt/!svn/ver/1659/branch2/v1/admin/model/user_biz.php
+END
+paymenthistory_biz.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/stt/!svn/ver/1659/branch2/v1/admin/model/paymenthistory_biz.php
+END
+refiling_biz.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/stt/!svn/ver/1659/branch2/v1/admin/model/refiling_biz.php
+END
+privilegemaster_biz.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/stt/!svn/ver/1659/branch2/v1/admin/model/privilegemaster_biz.php
+END
+menucontrolpanel_biz.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/stt/!svn/ver/1659/branch2/v1/admin/model/menucontrolpanel_biz.php
+END
+dashboard_biz.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/stt/!svn/ver/1659/branch2/v1/admin/model/dashboard_biz.php
+END
+filingslist_biz.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/stt/!svn/ver/1754/branch2/v1/admin/model/filingslist_biz.php
+END
+submissionlist_biz.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/stt/!svn/ver/1723/branch2/v1/admin/model/submissionlist_biz.php
+END
+login_biz.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/stt/!svn/ver/1659/branch2/v1/admin/model/login_biz.php
+END
+diagnose_biz.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/stt/!svn/ver/1659/branch2/v1/admin/model/diagnose_biz.php
+END
+template_biz.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/stt/!svn/ver/1659/branch2/v1/admin/model/template_biz.php
+END
+viewxml_biz.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/stt/!svn/ver/1659/branch2/v1/admin/model/viewxml_biz.php
+END
+customerlist_biz.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/stt/!svn/ver/1659/branch2/v1/admin/model/customerlist_biz.php
+END

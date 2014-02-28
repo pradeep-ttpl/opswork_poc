@@ -1,0 +1,752 @@
+/*------------General Classes-----------*/
+.alignleft { float:left; }
+.alignright { float:right; }
+.positionAbs{position:absolute;}
+/*----------*/
+.marTop0px   { margin-top:0px!important;}
+.marTop-1px   { margin-top:-1px;}
+.marTop-3px   { margin-top:-3px;}
+.marTop3px   { margin-top:3px;}
+.marTop4px   { margin-top:4px;}
+.marTop5px   { margin-top:5px;}
+.marTop8px   { margin-top:8px;}
+.marTop9px   { margin-top:9px;}
+.marTop10px { margin-top:10px;}
+.marTop12px { margin-top:12px;}
+.marTop15px { margin-top:15px;}
+.marTop18px { margin-top:18px;}
+.marTop20px { margin-top:20px;}
+.marTop25px { margin-top:25px;}
+.marTop30px { margin-top:30px;}
+.marTop35px { margin-top:35px;}
+.marTop40px  { margin-top:40px;}
+.marTop45px  { margin-top:45px;}
+.marTop50px  { margin-top:50px;}
+/*----------*/
+.marLeft3px   { margin-left:3px;}
+.marLeft5px   { margin-left:5px;}
+.marLeft10px { margin-left:10px;}
+.marLeft15px { margin-left:15px;}
+.marLeft18px { margin-left:18px;}
+.marLeft20px { margin-left:20px;}
+.marLeft25px { margin-left:25px;}
+.marLeft30px { margin-left:30px;}
+.marLeft35px { margin-left:35px;}
+.marLeft40px  { margin-left:40px;}
+.marLeft50px  { margin-left:50px;}
+.marLeft55px  { margin-left:55px;}
+.marLeft153px  { margin-left:153px;}
+.marLeft275px  { margin-left:275px;}
+/*----------*/
+.marRight5px   { margin-right:5px;}
+.marRight10px { margin-right:10px;}
+.marRight15px { margin-right:15px;}
+.marRight20px { margin-right:20px;}
+.marRight25px { margin-right:25px;}
+.marRight30px { margin-right:30px;}
+.marRight35px { margin-right:35px;}
+.marRight40px  { margin-right:40px;}
+.marRight50px  { margin-right:50px;}
+/*----------*/
+.padTop0px   { padding-top:0px!important;}
+.padTop5px   { padding-top:5px;}
+.padTop10px { padding-top:10px;}
+.padTop13px { padding-top:13px;}
+.padTop15px { padding-top:15px;}
+.padTop17px { padding-top:17px;}
+.padTop20px { padding-top:20px;}
+.padTop25px { padding-top:25px;}
+.padTop30px { padding-top:30px;}
+.padTop35px { padding-top:35px;}
+.padTop40px { padding-top:40px;}
+/*----------*/
+.padBottom10px { padding-bottom:10px;}
+/*----------*/
+.padLeft5px   { padding-left:5px;}
+.padLeft10px { padding-left:10px;}
+.padLeft15px { padding-left:15px;}
+.padLeft20px { padding-left:20px;}
+.padLeft25px { padding-left:25px;}
+.padLeft28px { padding-left:28px;}
+.padLeft30px { padding-left:30px;}
+.padLeft50px { padding-left:50px;}
+/*----------*/
+.padRight5px   { padding-right:5px;}
+.padRight10px { padding-right:10px;}
+.padRight15px { padding-right:15px;}
+.padRight20px { padding-right:20px;}
+.padRight25px { padding-right:25px;}
+.padRight30px { padding-right:30px;}
+.padRight50px { padding-right:50px;}
+/*-----------------*/
+.pad10px { padding:10px!important;}
+.pad15px { padding:15px;}
+.pad25px { padding:25px;}
+.pad30px { padding:30px;}
+.pad20px { padding:20px;}
+.pad50px { padding:50px;}
+/*----Border classes------*/
+.border { border:1px solid #DDDDDD;}
+.botBdr { border-bottom:1px solid #DDDDDD;}
+.topBdr { border-top:1px solid #DDDDDD;}
+.leftBdr { border-left:1px solid #DDDDDD;}
+.rightBdr { border-right:1px solid #DDDDDD;}
+.noRightborder{border-right:none!important}
+.noborder{border:none!important}
+/*height & width*/
+.height60px {height:60px;}
+
+.width20px {width:20px}
+.width200px {width:200px;}
+.width235px {width:235px;}
+.width375px {width:375px;}
+.width475px {width:475px;}
+.width635px {width:635px;}
+.width700px {width:700px;}
+.width930px {width:930px!important;}
+.width1024px {width:1024px!important;}
+/*form labels*/
+label.xsmall{width:150px;display:inline-block;text-align:left;}
+label.small{width:200px;display:inline-block;text-align:left;}
+label.medium{width:250px;display:inline-block;text-align:left;}
+label.large{width:300px;display:inline-block;text-align:left;}
+form p{margin-top:25px}
+input[type=button],input[type=submit],input[type=reset]{font-weight:bold;font-size:12px;outline: none}
+select option{padding-left:10px}
+img[title=Delete]{cursor:pointer;}
+.cursor{cursor:pointer;}
+.displayBlock{display:block;}
+.noBold{font-weight:normal!important;}
+.pageTipContentAreaBg{padding:10px;background:#F0F5F7;}
+.pageTipContentArea{margin-left:20px;min-height:25px;}
+.textAreaErr
+{
+	width: 425px;
+	border: 1px solid #F60303;
+    padding: 5px;
+}
+/*** table styles *****/
+.tableList th{
+border-right:1px solid #DDDDDD;
+border-bottom:1px solid #DDDDDD;
+padding:5px !important;
+background:#eeeeee;
+cursor:pointer;
+text-align:left;
+}
+.tableList td{
+border-right:1px solid #DDDDDD;
+border-bottom:1px solid #DDDDDD;
+padding:5px !important;
+}
+.tableListth{
+border-right:1px solid #DDDDDD;
+border-bottom:1px solid #DDDDDD;
+padding:5px !important;
+background:#eeeeee;
+cursor:pointer;
+text-align:left;
+}
+.tableListtd{
+border-right:1px solid #DDDDDD;
+border-bottom:1px solid #DDDDDD;
+padding:5px !important;
+}
+/*----------------------*/
+.nopadright { padding-right: 0 !important;}
+.topgrayBG {
+background:url('/images/topnavBG.png') repeat-x left top transparent; 
+height: 46px;}
+	
+#mainBG{
+    background-color: white;
+    margin: 0 auto;
+    padding: 0;
+    width: 1024px;
+}
+#usermainBG{
+    background-color: white;
+    margin: 0 auto;
+    padding: 0;
+    width: 100%;
+    height:100% ;
+	min-height:950px; 
+}
+.maincontainer {
+    left: 0 !important;
+    margin-left: 200px !important;
+    min-width: 1024px;
+    padding: 30px;
+    position: relative;
+}
+.containerLayout:before, .containerLayout:after {
+    content: "";
+    display: table;
+    line-height: 0;
+}
+#topNavigationBGArea {width:1024px;	margin: 0 auto;  padding: 0;}
+#topNavigation .selected a, #topNavigation li a:hover {background:#F5831F; color:#fff;}
+#topNavRight ul li, #topNavigation li a{padding:15px}
+#topNavRight ul li, #topNavigation li {padding-top:15px}
+#topNavigation ul li{
+	background: url("/images/navSep.png") no-repeat scroll left top transparent;
+    float:left;
+    height:29px;
+}
+#topNavRight ul li{
+	background: url("/images/navSep.png") no-repeat scroll right top transparent;
+    float:right;
+    height:29px;
+}
+#topNavRight li a:hover {color:#999;}
+.navigationBG {
+    background:#FCFCFC;
+    height: 130px;
+    width: 100%;
+	border-bottom:1px solid #E2E2E2;
+}
+#navMenu li{
+	background: url("/images/navGraybtn.png") no-repeat scroll left top transparent;
+	margin: 30px 0px 0px 30px;
+	text-align:center;
+	display:inline-block;
+	height:70px
+}
+#navMenu .selected, #navMenu li:hover{
+	background:url("/images/selectnavGraybtn.png") no-repeat scroll left top transparent;
+	color:#E77816;
+}
+#navMenu li a{
+	display:block;
+	width:140px;
+	text-align:center;
+	font-weight:bold;
+}
+#navMenu li a img {padding-bottom:10px; padding-top:12px;}
+#navMenu .selected a, #navMenu li a:hover{color:#E77816;font-weight:bold; text-align:center;height:70px;cursor: pointer;}
+.logo{
+	float:left;
+	height:40px;
+}
+.bannerBG {
+	background: url("/images/bannerIMG1.png") no-repeat scroll left transparent;
+	border:1px solid #DDDDDD;
+	width: 719px;
+	height: 305px;
+}
+.bannerBG ul li{
+	background: url("/images/tick-icon.png") no-repeat scroll 0px 30px transparent;
+	padding:25px 0px 0px 25px;
+	font-size:14px;
+	color:#000;
+}
+h1 span {font-size:20px;}
+.loginBanner {
+	background-color: #FFF;
+	border:1px solid #DDDDDD;
+	width: 275px;
+	height:305px;
+}
+.subbannerBG{
+	border:1px solid #DDDDDD;
+	width: 924px;
+	height: 124px;
+}
+.grayButton{
+	background: url("/images/grayButton.png") no-repeat scroll left transparent;
+	height:51px;
+	width:169px;
+}
+.grayBoxbg{
+	background-color: #F8F8F8;
+	height:250px;
+	width:964px;
+	text-align:center;
+	border:1px solid #E2E2E2;
+}
+.tabHeading{
+background:#f8f8f8;
+float:left;
+padding:10px 30px 10px 30px;
+border-top:1px solid #ddd;
+border-left:1px solid #ddd;
+border-right:1px solid #ddd;
+}
+#tabRightArea ul li{
+float:left;
+background:#f7f7f7;
+border:1px solid #eee;
+padding:8px 13px;
+margin:0px 0px 0px 10px;
+}
+#tabRightArea ul li:hover, #tabRightArea ul .selected{
+background:#ededed;
+border:1px solid #ddd;
+}
+.textBox{
+	height:60px;
+	text-align:center;
+	padding: 15px;
+	line-height:1.7em;
+}
+.subBox{
+	height:100px;
+	width:274px;
+}
+.registerTxt{ background:#008ECF; padding:16px 16px 14px 16px; font-size:14px; color:#FFFFFF;  font-weight: 800;}
+.registerTxt:hover{ background:#EC8A1C; padding:16px 16px 14px 16px; font-size:14px; color:#FFFFFF;  font-weight: 800;}
+.blueTxt{color:#008ECF;}
+.blueTxt20{color:#008ECF; font-size:20px!important; }
+.blueTxt:hover,.blueTxt20:hover{color:#333;}
+.grayTxt{color:#333;}
+.grayTxt:hover{color:#008ECF;}
+.orngTxt{color:#EC8A1C;}
+.orngTxt20{color:#EC8A1C;  font-size:20px!important;}
+.greenTxt{color:#82CC00;}
+.redTxt{color:#FF0000;}
+.footergrayBG{
+	background: url("/images/footerBG.png") repeat-x scroll left transparent;
+	width:100%;
+	margin: 30px auto 0px;
+}
+.footerBG{
+	width:1024px;
+	margin: 0 auto;
+    padding: 0;		
+	padding-top:30px;
+}
+#footerLinks ul li{padding:5px 0px 0px}
+#footerLinks ul li a:hover{color:#008ECF;}
+.listItemInner {background: url("/images/bullet_black.png") no-repeat scroll left top transparent; padding: 0 0 5px 20px !important;}
+.star {color: #FF0000;}
+.textArea{
+    border: 1px solid #B7B7B7;
+    padding:5px;
+}
+.txtBox320px{
+    border: 1px solid #B7B7B7;
+    padding: 5px;
+    width: 320px;
+}
+.txtBox260px{
+    border: 1px solid #B7B7B7;
+    padding: 5px;
+    width: 260px;
+}
+.txtBox245px{
+    border: 1px solid #B7B7B7;
+    padding: 5px;
+    width: 245px;
+}
+.txtBox200px{
+    border: 1px solid #B7B7B7;
+    padding: 5px;
+    width: 200px;
+}
+.txtBox150px{
+    border: 1px solid #B7B7B7;
+    padding: 5px;
+    width: 150px;
+}
+.txtBox100px{
+    border: 1px solid #B7B7B7;
+    padding: 5px;
+    width: 100px;
+}
+.txtBox50px{
+    border: 1px solid #B7B7B7;
+    padding: 5px;
+    width: 50px;
+}
+.selectTab {
+    background: url("/images/tabButn.png") no-repeat scroll 0 0 transparent;
+    color: #000;
+    cursor: pointer;
+    float: left;
+    font-weight: bold;
+    margin-right: 10px;
+    padding: 10px 15px;
+    text-align: center;
+    width: 100px;
+}
+.unselectTab {
+    background: url("/images/tabButn2.png") no-repeat scroll 0 0 transparent;
+    color: #999;
+    cursor: pointer;
+    float: left;
+    font-weight: bold;
+    margin-right: 10px;
+    padding: 10px 15px;
+    text-align: center;
+    width: 100px;
+}
+.tableHeader {
+	background:url("/images/tabBG.png") repeat-x left top transparent;
+	padding:5px 5px 35px 15px;
+	text-align:left;
+	font-size:12px;
+	color:#333333;
+	border-bottom:1px solid #DFDFDF;
+}
+.evenrow {background: none repeat scroll 0 0 #F9F9F9;}
+.graysmallButn {
+    background: url("/images/garysmallBtn.png") no-repeat scroll left top transparent;
+    border: medium none;
+    cursor: pointer;
+    height: 20px;
+	padding-top: 3px;
+	font-size:11px;
+    text-align: center;
+    width: 65px;
+}
+.sidebar {
+    background: url("/images/sideBluebg.png") repeat-y scroll left top transparent;
+    display: block;
+    float: left;
+    width: 200px;
+}
+.sidebarBottom {
+    background: url("/images/sideBluebottombg.png") no-repeat scroll left top transparent;
+    display: block;
+    float: left;
+    width: 200px;
+	height:250px;
+}
+.inputTextbox210px {
+    border: 1px solid #CDCDCD;
+    padding: 5px;
+    width: 210px;
+}
+.headRow {
+    background: none repeat scroll 0 0 #EAEAEA;
+}
+.blueButton200{
+	background: url('/images/blue-orange-buttons.png') no-repeat scroll 22px -315px transparent;
+    border: medium none;
+    color: #FFFFFF;
+    font-weight:bold;
+    cursor: pointer;
+    padding: 7px 0 10px;
+    text-align: center;
+    width:200px;
+}
+.blueButn60px{
+    background: url("/images/blue-orange-buttons.png") no-repeat scroll 0 -33px transparent;
+    border: medium none;
+    color: #FFFFFF;
+    cursor: pointer;
+    padding: 7px 0 10px;
+    text-align: center;
+    width:60px;
+}
+.blueButn80px{
+    background: url("/images/blue-orange-buttons.png") no-repeat scroll 0 -103px transparent;
+    border: medium none;
+    color: #FFFFFF;
+    cursor: pointer;
+    padding: 7px 0 10px;
+    text-align: center;
+    width: 80px;
+}
+.blueButn100px{
+    background: url("/images/blue-orange-buttons.png") no-repeat scroll 0 -138px transparent;
+    border: medium none;
+    color: #FFFFFF;
+    cursor: pointer;
+    padding: 7px 0 10px 0px; 
+    text-align: center;
+    width: 100px;
+}
+.fbButton{
+    background: url("/images/fb-login.png") no-repeat scroll 0 0 transparent;
+    border: medium none;
+    color: #FFFFFF;
+    cursor: pointer;
+    padding: 7px 2px 7px 7px;
+    text-align: left;
+    margin-top:2px;
+    width: 140px;
+}
+.orangeButn60px{
+    background: url("/images/blue-orange-buttons.png") no-repeat scroll -272px -33px transparent;
+    border: medium none;
+    color: #FFFFFF;
+    cursor: pointer;
+    padding: 7px 0 10px;
+    text-align: center;
+    width: 60px;
+}
+.orangeButn80px{
+    background: url("/images/blue-orange-buttons.png") no-repeat scroll -272px -103px transparent;
+    border: medium none;
+    color: #FFFFFF;
+    cursor: pointer;
+    padding: 7px 0 10px;
+    text-align: center;
+    width: 80px;
+}
+.orangeButn100px{
+    background: url("/images/blue-orange-buttons.png") no-repeat scroll -272px -138px transparent;
+    border: medium none;
+    color: #FFFFFF;
+    cursor: pointer;
+    padding: 7px 0 10px;
+    text-align: center;
+    width: 100px;
+}
+.ArrowBg li {
+    background: url("/images/blueArrow.png") no-repeat scroll left top transparent;
+    list-style-type: none;
+    margin-top: 6px;
+    padding-left: 25px;
+}
+.ArrowBg li ul li {
+    background: url("/images/grayArrow.png") no-repeat scroll left top transparent;
+    list-style-type: none;
+    margin-top: 6px;
+    padding-left: 25px;
+}
+.loginTxtBoxErr
+{
+	border:1px solid #F60303;
+}
+.errorBdr { border:1px solid #F60303;}
+.statusMsg {
+	line-height: 160%;
+	background: none repeat scroll 0 0 #AECE4E;
+    border: 1px solid #EEEEEE;
+    color: #fff;
+    padding: 5px;
+}
+.errorMsg {
+	line-height: 160%;
+	background: none repeat scroll 0 0 #FF2929;
+    border: 1px solid #F60303;
+    color: #fff;
+    padding: 5px;
+}
+.textArea255px
+{
+	width:310px;
+    height: 123px;
+}
+.subpageBdr
+{
+	border:1px solid #DFDFDF;
+}
+/*a.tooltip span {display:none; padding:2px 3px; margin-left:8px; width:300px;}
+a.tooltip:hover span{display:block; position:absolute; border:1px solid #cccccc; font-size:12px; background:#ffffff; color:#6c6c6c;}*/
+
+.orangeButton {
+	background: #F5831F;
+    border: 1px solid #D84700;
+    color: #FFFFFF;
+	font-size: 16px;
+    font-weight: 800;
+    line-height: 16px;
+    padding: 12px;
+	border-radius: 4px 4px 4px 4px;
+    box-shadow: 2px 2px 5px rgba(255, 255, 255, 0.2) inset, 0 1px 2px rgba(0, 0, 0, 0.1);
+    display: inline-block;
+}
+.blueButton {
+	background:#0091E4;
+    border: 1px solid #0059A5;
+    color: #FFFFFF;
+	font-size: 16px;
+    font-weight: 800;
+    line-height: 16px;
+    padding: 12px;
+	border-radius: 4px 4px 4px 4px;
+    box-shadow: 2px 2px 5px rgba(255, 255, 255, 0.2) inset, 0 1px 2px rgba(0, 0, 0, 0.1);
+	cursor: pointer;
+    display: inline-block;
+}
+.headrBox {
+    background:url("/images/box_title_bg.png") repeat-x scroll center bottom #F5F5F5;
+    color: #656565;
+    font-size: 14px;
+    font-weight: 600;
+    margin-bottom: 0;
+    padding: 12px;
+}
+.titleStrip {
+	background:#F5F5F5;
+    width: 984px;
+    border:1px solid #DDDDDD;
+    padding: 20px;
+}
+/*-----------Tab Section-----------*/
+#tabbed_box {margin: 0px auto 0px auto; width:1024px; }  
+.tabbed_area {  
+   border:1px solid #DDDDDD;  
+   background-color:#CCCCCC;  
+   padding:15px;      
+} 
+ul.tabs{margin:0px; padding:0px;}  
+ul.tabs li {list-style:none; display:inline;}  
+ul.tabs li a {  
+    background-color:#EEEEEE;  
+    color:#656565;  
+    padding:8px 14px 8px 14px;  
+    text-decoration:none;  
+    font-weight:bold;  
+    text-transform:uppercase;  
+    border:1px solid #EEEEEE;   
+}  
+ul.tabs li a:hover {  
+    background-color:#CCCCCC;  
+    border-color:#DDDDDD;  
+}  
+ul.tabs li a.active {  
+    background-color:#ffffff;  
+    color:#282e32;  
+    border:1px solid #DDDDDD;   
+    border-bottom: 1px solid #ffffff;  
+} 
+.content {  
+    background-color:#ffffff;  
+    padding:30px;  
+	width:964px;
+    border:1px solid #DDDDDD;     
+}  
+#content_2, #content_3 { display:none; }  
+ul.tabs {  
+    margin:0px; padding:0px;  
+    margin-top:5px;  
+    margin-bottom:8px;
+}  
+.content ul {  
+    padding:5px 20px 5px 20px;  
+}  
+.content ul li {  
+    list-style:disc;  
+	padding-top:7px;
+}  
+/*wizard listing*/
+#wizardList {background:#f7f7f7;padding:10px 0px;border:1px solid #eee;}
+#wizardList ul li{
+	float:left;
+	padding:5px;
+	font-size:12px;	
+	background: url("/images/next-gray.gif") no-repeat scroll left top transparent;
+	padding:0px 0px 0px 15px;	
+	margin:0px 30px 0px 5px;
+	color:#999;
+}
+#wizardList ul .selected{
+background: url("/images/next.gif") no-repeat scroll left top transparent;
+color:#F5831F;
+font-weight:bold;
+}
+/*wizard Area Separation*/
+#leftNav{width:200px;}
+#leftNav ul li{background:#eee;margin-bottom:10px;}
+#leftNav ul li a{padding:5px 5px 5px 7px;display:block}
+#leftNav ul .selected{ background:#008ECF; }
+#leftNav ul .selected a{color:#fff;}
+.rightArea{width:730px;}
+/*summary page*/
+.summaryHeading{
+border-left:10px solid #F5831F;
+padding:5px;
+max-height:25px;
+font-size:16px;
+}
+.summaryHeaderBg{
+background:#eee;
+text-align:left;
+}
+.vehiclesTaxArea{max-height:400px; overflow-y:auto}
+/*Icon Classes*/
+.myFilings-icon{ background: url("/images/small16x16-icon.png") no-repeat scroll -5px -5px transparent; width:16px; height:16px;display: inline-block; padding-left:5px;}
+.myAdmindash-icon{ background: url("/images/small16x16-icon.png") no-repeat scroll -180px -5px transparent; width:16px; height:16px;display: inline-block; padding-left:5px;}
+.myAccount-icon{ background: url("/images/small16x16-icon.png") no-repeat scroll -26px -5px transparent; width:16px; height:16px;display: inline-block; padding-left:5px;}
+.myLogout-icon{ background: url("/images/small16x16-icon.png") no-repeat scroll -46px -5px transparent; width:16px; height:16px;display: inline-block; padding-left:5px;}
+.myLogin-icon{ background: url("/images/small16x16-icon.png") no-repeat scroll -157px -5px transparent; width:16px; height:16px;display: inline-block; padding-left:5px;}
+.myBusinesses-icon{ background: url("/images/small16x16-icon.png") no-repeat scroll -68px -5px transparent; width:16px; height:16px;display: inline-block; padding-left:5px;}
+.myVehicles-icon{ background: url("/images/small16x16-icon.png") no-repeat scroll -95px -5px transparent; width:26px; height:16px;display: inline-block; padding-left:5px;}
+.myReturnstatus-icon{ background: url("/images/small16x16-icon.png") no-repeat scroll -131px -5px transparent; width:16px; height:16px;display: inline-block; padding-left:5px;}
+.faceBook-icon{ background: url("/images/social24x24-icon.png") no-repeat scroll 0 0 transparent; width:22px; height:24px;display: inline-block; padding-left:5px;}
+.twitTer-icon{ background: url("/images/social24x24-icon.png") no-repeat scroll -25px 0 transparent; width:22px; height:24px;display: inline-block; padding-left:5px;}
+.linkedIn-icon{ background: url("/images/social24x24-icon.png") no-repeat scroll -50px 0 transparent; width:22px; height:24px;display: inline-block; padding-left:5px;}
+.pinterest-icon{ background: url("/images/social24x24-icon.png") no-repeat scroll -77px 0 transparent; width:22px; height:24px;display: inline-block; padding-left:5px;}
+.yt-icon{ background: url("/images/social24x24-icon.png") no-repeat scroll -105px 0 transparent; width:22px; height:24px;display: inline-block; padding-left:5px;}
+.irsLogo-icon{ background: url("/images/irsLogos.png") no-repeat scroll 0 0 transparent; width:50px; height:50px;display: inline-block; padding-left:20px;}
+.itsLogo-icon{ background: url("/images/irsLogos.png") no-repeat scroll -70px 0 transparent; width:52px; height:50px;display: inline-block; padding-left:20px;}
+.anLogo-icon{ background: url("/images/irsLogos.png") no-repeat scroll -143px 0 transparent; width:64px; height:50px;display: inline-block; padding-left:16px;}
+.ataLogo-icon{ background: url("/images/irsLogos.png") no-repeat scroll -224px 0 transparent; width:61px; height:50px;display: inline-block; padding-left:20px;}
+.bbbLogo-icon{ background: url("/images/irsLogos.png") no-repeat scroll -305px 0 transparent; width:132px; height:50px;display: inline-block; padding-left:20px;}
+.ssLogo-icon{ background: url("/images/irsLogos.png") no-repeat scroll -457px 0 transparent; width:63px; height:50px;display: inline-block;}
+.nortonLogo-icon {background: url("/images/irsLogos.png") no-repeat scroll -539px 0 rgba(0, 0, 0, 0); display: inline-block;  height: 50px; width: 93px;}
+
+.suggestionsBox {
+     position: absolute;
+     left: 224px;
+     width: 198px;
+     background:#f7f7f7;
+     border: 1px solid #ccc;
+ }
+ .suggestionsBoxMedium {
+     position: absolute;
+     left: 274px;
+     width: 198px;
+     background:#f7f7f7;
+     border: 1px solid #ccc;
+ }
+ .suggestionList{
+     margin: 0px;
+     padding: 5px 0px 0px;
+     overflow-y:auto;
+ }
+ .suggestionList li {
+	 list-style:none;
+     margin: 0px 0px 3px 0px;
+     padding: 3px;
+     cursor: pointer;
+ }
+ .suggestionList li:hover {
+     background-color: #eee;
+ }
+#forHoverTr tr:hover{background:#E4ECF0;color:#008ECF;font-weight:bold;}
+.listTypeSetting{list-style:disc!important;list-style-position:outside;margin-left:15px}
+.listTypeSetting li {padding-top:3px}
+.blueButn140px{
+    background: url("/images/blue-orange-buttons.png") no-repeat scroll 0 -278px transparent;
+    border: medium none;
+    color: #FFFFFF;
+    cursor: pointer;
+    padding: 7px 0 10px;
+    text-align: center;
+    width: 140px;
+}
+.mandatory{color:#F60303;}
+.checkBoxTextAlingnment{display: block;padding-left: 1em;text-indent: -18px;}
+.successIcon{ 
+	background: url("/images/small12pxicons.png") no-repeat scroll 2px 0px transparent; 
+	width:12px; 
+	height:9px;
+	display: inline-block; 
+	padding-left:5px;
+}
+.errorIcon{ 
+	background: url("/images/small12pxicons.png") no-repeat scroll -12px 0px transparent; 
+	width:12px; 
+	height:9px;
+	display: inline-block; 
+	padding-left:5px;
+}
+.continueIcon{ 
+	background: url("/images/small12pxicons.png") no-repeat scroll -42px 0px transparent; 
+	width:12px; 
+	height:9px;
+	display: inline-block; 
+	padding-left:5px;
+}
+.backIcon{ 
+	background: url("/images/small12pxicons.png") no-repeat scroll -26px 0px transparent; 
+	width:12px; 
+	height:9px;
+	display: inline-block; 
+	padding-left:5px;
+}

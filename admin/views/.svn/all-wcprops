@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/stt/!svn/ver/1754/branch2/v1/admin/views
+END
+addusermaster_ui.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/stt/!svn/ver/1754/branch2/v1/admin/views/addusermaster_ui.php
+END
+login_ui.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/stt/!svn/ver/1659/branch2/v1/admin/views/login_ui.php
+END
+menucontrolpanel_ui.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/stt/!svn/ver/1659/branch2/v1/admin/views/menucontrolpanel_ui.php
+END
+dashboard_ui.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/stt/!svn/ver/1659/branch2/v1/admin/views/dashboard_ui.php
+END
+editpaymentstatus_ui.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/stt/!svn/ver/1659/branch2/v1/admin/views/editpaymentstatus_ui.php
+END
+filingslist_ui.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/stt/!svn/ver/1670/branch2/v1/admin/views/filingslist_ui.php
+END
+submissionlist_ui.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/stt/!svn/ver/1723/branch2/v1/admin/views/submissionlist_ui.php
+END
+changestatus_ui.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/stt/!svn/ver/1659/branch2/v1/admin/views/changestatus_ui.php
+END
+diagnose_ui.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/stt/!svn/ver/1754/branch2/v1/admin/views/diagnose_ui.php
+END
+usermaster_ui.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/stt/!svn/ver/1754/branch2/v1/admin/views/usermaster_ui.php
+END
+header.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/stt/!svn/ver/1754/branch2/v1/admin/views/header.php
+END
+recentfilings_ui.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/stt/!svn/ver/1754/branch2/v1/admin/views/recentfilings_ui.php
+END
+customerlist_ui.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/stt/!svn/ver/1754/branch2/v1/admin/views/customerlist_ui.php
+END
+paymenthistory_ui.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/stt/!svn/ver/1659/branch2/v1/admin/views/paymenthistory_ui.php
+END
+refiling_ui.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/stt/!svn/ver/1659/branch2/v1/admin/views/refiling_ui.php
+END
+editusermaster_ui.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/stt/!svn/ver/1754/branch2/v1/admin/views/editusermaster_ui.php
+END
+footer.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/stt/!svn/ver/1659/branch2/v1/admin/views/footer.php
+END
+privilegemaster_ui.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/stt/!svn/ver/1754/branch2/v1/admin/views/privilegemaster_ui.php
+END
